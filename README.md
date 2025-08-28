@@ -38,26 +38,26 @@ A simple React app that lets users create custom memes using images and text ove
 
   4. 📸 Usage
      
-  Enter your custom top and bottom text
+    Enter your custom top and bottom text
 
-  Click the “Generate Meme” button
+    Click the “Generate Meme” button
 
-  Enjoy your personalized meme!
+    Enjoy your personalized meme!
 
   5. 🧠 Learning Objectives
      
-  This project is great for understanding:
+    This project is great for understanding:
 
-  React state management with useState
+    React state management with useState
 
-  Fetching data with useEffect
+    Fetching data with useEffect
 
-  Handling form inputs
+    Handling form inputs
 
-  Conditional rendering and dynamic content
-
-
+    Conditional rendering and dynamic content
 
 
- Happy meme-making! 😄
+
+
+   Happy meme-making! 😄
    
