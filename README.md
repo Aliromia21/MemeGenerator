@@ -30,7 +30,7 @@ A simple React app that lets users create custom memes using images and text ove
    ```
 
 
- 3.Start the development server:
+3.Start the development server:
    ```bash
 
       npm start
