@@ -26,14 +26,14 @@ A simple React app that lets users create custom memes using images and text ove
 2. Install The Dependencies :
    ```bash
 
-      npm install
+   npm install
    ```
 
 
-3.Start the development server:
+ 3.Start the development server:
    ```bash
 
-      npm start
+   npm start
    ```
 
 📸 Usage
