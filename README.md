@@ -18,23 +18,23 @@ A simple React app that lets users create custom memes using images and text ove
 
 ## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aliromia21/MemeGenerator.git
-   cd MemeGenerator
-    ```
-2. Install The Dependencies :
-   ```bash
-
-   npm install
-   ```
-
-
- 3.Start the development server:
-   ```bash
-
-   npm start
-   ```
+   1. Clone the repository:
+      ```bash
+      git clone https://github.com/Aliromia21/MemeGenerator.git
+      cd MemeGenerator
+       ```
+   2. Install The Dependencies :
+      ```bash
+   
+      npm install
+      ```
+   
+   
+   3.Start the development server:
+      ```bash
+   
+      npm start
+      ```
 
 📸 Usage
 Enter your custom top and bottom text
