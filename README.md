@@ -34,7 +34,7 @@ A simple React app that lets users create custom memes using images and text ove
       ```bash
    
       npm start
-      ```
+ ```
 
 📸 Usage
 Enter your custom top and bottom text
